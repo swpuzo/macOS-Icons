@@ -9,9 +9,6 @@ A meticulous collection of system and third-party application icons designed spe
 - **High Resolution:** All assets are provided in high quality (up to 512x512) ensuring crisp rendering on Retina displays.
 - **Comprehensive Coverage:** Includes essential Apple system apps and popular third-party tools tailored into the macOS squircle shape.
 
-## Screenshots
-/home/geo/Pictures/Screenshots/Screenshot From 2026-06-16 21-34-16.png
-
 ### Apps
 * `AirPort Utility`
 * `App Store`
